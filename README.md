@@ -15,6 +15,7 @@ Trabalho da disciplina de Desenvolvimento Web Back-End.
 - Spring Data JPA
 - Banco de dados H2 (em memória)
 - Maven
+- Postman
 
 ---
 
