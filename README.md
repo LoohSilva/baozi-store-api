@@ -4,7 +4,7 @@ API REST para gerenciamento de clientes, produtos e pedidos de uma loja fictíci
 
 Trabalho da disciplina de Desenvolvimento Web Back-End.
 
-**Autora:** Lorrane — **RU:** 4918902
+**Autora:** Lorrane 
 
 ---
 
