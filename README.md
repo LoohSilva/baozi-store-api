@@ -1,6 +1,6 @@
 # Baozi Store API
 
-API REST para gerenciamento de clientes, produtos e pedidos de uma loja fictícia de pão chinês (Baozi Store).
+API REST desenvolvida em Java com Spring Boot para gerenciamento de clientes, produtos e pedidos de uma loja fictícia de pão chinês (Baozi Store).
 
 Trabalho da disciplina de Desenvolvimento Web Back-End.
 
